@@ -1,5 +1,6 @@
-Hello 👋 I'm Victor Pichereau
+<h1 align="center">Hi 👋, I'm Victor</h1>
+<h3 align="center">A passionate frontend junior developer from France</h3>
 
-I'm a junior web developer who wants to use my creativity in a front-end career.
+- 🔭 I’m currently working on **Meetsicians.fr**
 
-With my buddies from @LeWagon I'm working a mobile app, Meetsicians 🎸
+
